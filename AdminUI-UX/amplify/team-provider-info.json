@@ -1,0 +1,16 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-curasterpatient-dev-213319-authRole",
+      "UnauthRoleArn": "arn:aws:iam::672223789052:role/amplify-curasterpatient-dev-213319-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::672223789052:role/amplify-curasterpatient-dev-213319-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-curasterpatient-dev-213319-deployment",
+      "UnauthRoleName": "amplify-curasterpatient-dev-213319-unauthRole",
+      "StackName": "amplify-curasterpatient-dev-213319",
+      "StackId": "arn:aws:cloudformation:ap-south-1:672223789052:stack/amplify-curasterpatient-dev-213319/772da880-0845-11ed-bd67-06c5fa8718a8",
+      "AmplifyAppId": "d24tnhaamgtio1",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-curasterpatient-dev-213319-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    }
+  }
+}
