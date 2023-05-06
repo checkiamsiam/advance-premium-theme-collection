@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "korbo-joy",
+    "slug": "korbo-joy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/images/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./app/assets/images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "hermesEnabled": true,
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/images/logo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./app/assets/images/logo.png"
+    }
+  }
+}
